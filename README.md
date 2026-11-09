@@ -41,8 +41,8 @@ The system captures real-time video from a webcam, detects faces, recognizes the
 
 Clone the repository:
 
- git clone https://github.com/HimJaiss/Face_Recognition_Based_Attendance_System.git
- cd Face_Recognition_Based_Attendance_System
+ git clone https://github.com/HimJaiss/FaceMask.git
+ cd FaceMask
 
 **Install required dependencies:**
 
