@@ -1,4 +1,4 @@
-**FaceMask – Face Recognition Based Attendance System**
+**FaceMark – Face Recognition Based Attendance System**
 
 A Python-based attendance management system that uses face recognition technology to automatically identify individuals and record their attendance. The project was independently developed, and I am actively working on new projects to expand and improve this system.
 
@@ -41,7 +41,7 @@ The system captures real-time video from a webcam, detects faces, recognizes the
 
 Clone the repository:
 
- git clone https://github.com/HimJaiss/FaceMask.git
+ git clone https://github.com/HimJaiss/FaceMark.git
  cd FaceMask
 
 **Install required dependencies:**
